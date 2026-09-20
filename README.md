@@ -1,3 +1,15 @@
+> [!NOTE]
+> **Moved.** This is now `field-guide/` in **[ponzgpt/hermes-contributions](https://github.com/ponzgpt/hermes-contributions)**, together
+> with the three other things I built around Hermes Agent. Live at
+> **<https://hermes-contributions.technoir.cloud/field-guide/>**; `launch.technoir.cloud` now redirects there.
+>
+> This repository is archived and read-only. It is kept rather than deleted so that nothing
+> already linking here breaks.
+>
+> The price table that lived here was a promotional snapshot and went out of date without
+> saying so. The version in the new repo is generated from the live Nous Portal catalogue and
+> re-checked on every build.
+
 # Hermes Field Guide
 
 An independent, practical guide to Hermes Agent for technically curious people with some computer experience and little agent-infrastructure experience.
